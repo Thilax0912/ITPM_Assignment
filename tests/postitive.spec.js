@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-/*
+
 test('Pos_Fun_0001 - daily greeting phrase', async ({ page }) => {
   await page.goto('https://tamil.changathi.com/');
   const inputBox = page.locator('textarea').first();
@@ -224,4 +224,3 @@ test('Pos_Fun_00023 - daily greeting phrase', async ({ page }) => {
 }); 
 
 
-*/
